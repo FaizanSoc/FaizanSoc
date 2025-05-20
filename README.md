@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/FaizanSoc/FaizanSoc/blob/main/cyber-security-banner-template_23-2148810167.avif" alt="Cyber Security Banner" width="100%">
+  <img src="https://github.com/FaizanSoc/FaizanSoc/blob/main/Background.img.jpeg" alt="Cyber Security Banner" width="100%">
 </div>
 # 💫 About Me:
 Hi everyone! 👋 I'm studying Computer Science with the goal of becoming a SOC analyst. I'm focused on cybersecurity and committed to learning how to ensure security. Let’s connect and share knowledge! 🌱💻<br>
