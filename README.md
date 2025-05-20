@@ -3,8 +3,7 @@
 </div>
 <h1> 💫 About Me:<h1/>
   <h3/>
-Hi everyone! 👋 I'm studying Computer Science with the goal of becoming a SOC analyst. I'm focused on cybersecurity and committed to learning how to ensure security. Let’s connect and share knowledge!
-    <h3/> 🌱💻<br>
+Hi everyone! 👋 I’m Faizan, studying Computer Science with the goal of becoming a SOC analyst. I’m focused on cybersecurity and dedicated to learning how to ensure security. Let’s connect and share knowledge! 🌱💻<br>
 
 
 ## 🌐 Socials:
